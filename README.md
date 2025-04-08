@@ -37,6 +37,12 @@
 - Kotlin **1.9+**
 - Android SDK **24+ (Nougat)**
 
+## 📦 Download & Try
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1r6N0QPFWNqQOOoXvz33Zx0h9evfF6RgR/view?usp=sharing)
+
+---
+
 ### Installation
 
 ```bash
