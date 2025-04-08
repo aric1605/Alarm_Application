@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://github.com/aric1605/Know_Your_Leader/blob/a356c3e6697552c9215bb9e8ed48e3fddbdfd0cf/banner.png" alt="Know Your Leader Banner" width="40%" height="40%" />
+  <img src="" alt="Know Your Leader Banner" width="40%" height="40%" />
   <h1>⏰ Alarm Quiz App</h1>
   <p><strong>> A smart alarm app that *literally forces you to wake up your brain* before your body. Say goodbye to snoozing with our arithmetic challenge alarm! 💥📱</strong></p>
   <br />
   <p>
     <a href="https://github.com/aric1605/Alarm_Application"><img alt="GitHub stars" src="https://img.shields.io/github/stars/aric1605/Alarm_Application?style=social"></a>
     <a href="https://github.com/aric1605/Alarm_Application/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/aric1605/Alarm_Application?color=blue"></a>
-    <a href="https://github.com/aric1605/Alarm_Application/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/aric1605/Alarm_Application"></a>
   </p>
 </div>
 
