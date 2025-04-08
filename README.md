@@ -115,12 +115,19 @@ Built by sleep-deprived developers who were tired of oversleeping 😴
 
 ---
 
-### 🌐 Links
+## 📬 Feedback
 
+Have suggestions or found a bug?
+
+- Drop an email: aricvasaya10@gmail.com
+- Connect with me on [Linkdin](https://www.linkedin.com/in/aric-vasaya-a7a0b1287/)
 - [GitHub Repository](https://github.com/aric1605/Alarm_Application)
 - [Report Issues](https://github.com/aric1605/Alarm_Application/issues)
 - [Contributing Guide](CONTRIBUTING.md)
 
 ---
 
-Made with ❤️ and ☕ by Team Aric
+<div align="center"> <br /> <b>⭐ Star the repo to support the project!</b> <br /><br /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWR3eDBrMDF5ZnUyYmJlOXFlYTVncmJoajgwMTRtdGszcDBpa2x3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4FGGafcOHmrlQxG0/giphy.gif" width="250px" alt="Thank You!" /> </div>
+
+
+Made with ❤️ and ☕ by Aric
