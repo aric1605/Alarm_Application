@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" alt="Know Your Leader Banner" width="40%" height="40%" />
+  <img src="https://github.com/aric1605/Alarm_Application/blob/b89eac7ea5a827d46a5f1989bd67e0024395b36f/banner.png" alt="Know Your Leader Banner" width="40%" height="40%" />
   <h1>⏰ Alarm Quiz App</h1>
   <p><strong>> A smart alarm app that *literally forces you to wake up your brain* before your body. Say goodbye to snoozing with our arithmetic challenge alarm! 💥📱</strong></p>
   <br />
