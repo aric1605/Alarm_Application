@@ -40,8 +40,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/alarm-quiz-app.git
-cd alarm-quiz-app
+git clone https://github.com/aric1605/Alarm_Application.git
 ```
 
 Open the project in Android Studio and click **Run ▶️**.
@@ -65,13 +64,11 @@ com.aric.alarm_application/
 ├── MainActivity.kt          # Set alarm using TimePicker
 ├── AlarmReceiver.kt         # Receives and starts alarm service
 ├── AlarmService.kt          # Plays alarm sound and vibration
-├── AlarmActivity.kt         # Displays quiz to dismiss alarm
-├── QuizViewModel.kt         # Generates questions and handles logic
+├── AlarmActivity.kt         # Displays quiz to dismiss alarm And Generates questions and handles logic
 ├── res/
 │   └── layout/
 │       ├── activity_main.xml
 │       ├── activity_alarm.xml
-│       └── quiz_question_item.xml
 └── AndroidManifest.xml
 ```
 
@@ -103,12 +100,6 @@ com.aric.alarm_application/
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-```bash
-git checkout -b feature/your-feature-name
-git commit -m "Add new feature"
-git push origin feature/your-feature-name
-```
 
 ---
 
